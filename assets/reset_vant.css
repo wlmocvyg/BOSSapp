@@ -1,0 +1,16 @@
+/* 
+vant框架中的一些需要修改的样式集中放在这里
+
+
+*/
+div.van-grid-item div.van-grid-item__content
+{
+    background-color: #ebedf0;
+}
+div.van-grid-item div.van_grid_item_focus{
+	border:1px solid #14c1bb;
+	background: #def6f6;
+}
+div.van-grid-item div.van-grid-item_focus span.van-grid-item__text{
+	color: #14c1bb;
+}
